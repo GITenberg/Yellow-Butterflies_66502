@@ -1,0 +1,28 @@
+_repo: Yellow-Butterflies_66502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+description: ''
+gutenberg_issued: '2021-10-10'
+identifiers:
+  gutenberg: '66502'
+language: en
+pgterms:marc905: 20210722180729andrews
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: paracelsus8 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Charles Scribner's Sons,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Yellow Butterflies
+url: http://www.gutenberg.org/ebooks/66502
