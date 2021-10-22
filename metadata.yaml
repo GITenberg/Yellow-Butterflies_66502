@@ -1,5 +1,8 @@
 _repo: Yellow-Butterflies_66502
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66502-h/images/cover.jpg
 creator:
   author:
     agent_name: Andrews, Mary Raymond Shipman
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1687
     wikipedia: https://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66502#Yellow-Butterflies
 gutenberg_issued: '2021-10-10'
 identifiers:
   gutenberg: '66502'
